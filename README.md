@@ -33,7 +33,7 @@ Most remaining errors are gliomas predicted as meningioma or as "no tumour". As 
 **Locally:**
 
 ```bash
-git clone https://github.com/<your-username>/brain-tumour-mri-classifier.git
+git clone https://github.com/timothee-git/brain-tumour-mri-classifier.git
 cd brain-tumour-mri-classifier
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
