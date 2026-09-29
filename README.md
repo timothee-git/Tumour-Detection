@@ -4,7 +4,7 @@ A PyTorch classifier that labels brain MRI slices as **glioma**, **meningioma**,
 
 > **Educational project only.** This is not a medical device and must not be used for diagnosis or any clinical decision. See [Limitations](#limitations).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/brain-tumour-mri-classifier/blob/main/notebooks/brain_tumour_mri_classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timothee-git/brain-tumour-mri-classifier/blob/main/notebooks/brain_tumour_mri_classifier.ipynb)
 
 ## Results
 
